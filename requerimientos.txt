@@ -1,0 +1,13 @@
+Comisiones de vendedores programable por % y que sea variable.
+
+Las comisiones a los vendedores y se adicionan al coste del producto vendido, solo algunos productos.
+
+Informe de comisiones por vendedor y rango de tiempo
+
+En algunas ventas si el vendedor vende el producto al precio de venta se le pagará la comisión respectiva, pero si ese mismo producto se vende por encima del precio de venta, se reparte el excedente con el vendedor
+
+Sistema de inventario y sólo el administrador pueda hacer cambios en los inventarios, dar de alta productos y hacer cualquier tipo de cambio
+
+Que los cajeros tengan clave para iniciar y así poder distinguir quien cobró, que puedan hacer cierre de caja y mandar informe de ventas, por Email automático al final del día.
+
+Sistema de creación de cuentas con perfiles de seguridad
